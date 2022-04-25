@@ -1,0 +1,6 @@
+{
+  "appTitle": "bergenost_appbar_two",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
